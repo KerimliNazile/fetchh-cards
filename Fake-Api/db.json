@@ -1,0 +1,10 @@
+{
+    "atribute":[
+        {"id":1,"title":"json","age":34},
+        {"id":12,"title":"nazilya","age":19},
+        {"id":14,"title":"code-academy","age":3}
+    ],
+    "like":[
+        {"id":5,"best":"good"}
+    ]
+}

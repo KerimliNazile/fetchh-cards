@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.container img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+.container p{
+    font-size: 20px;
+    color: crimson;
+}
